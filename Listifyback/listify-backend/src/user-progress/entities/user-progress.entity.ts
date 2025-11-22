@@ -1,3 +1,4 @@
+// user-progress/entities/user-progress.entity.ts
 import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 
 @Entity()

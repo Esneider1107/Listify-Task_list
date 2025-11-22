@@ -1,3 +1,4 @@
+// pet/entities/pet.entity.ts
 import { Entity, PrimaryGeneratedColumn, Column } from 'typeorm';
 
 @Entity()

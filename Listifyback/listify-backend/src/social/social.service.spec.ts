@@ -1,3 +1,4 @@
+// social.service.spec.ts
 import { Test, TestingModule } from '@nestjs/testing';
 import { SocialService } from './social.service';
 

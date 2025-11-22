@@ -1,3 +1,4 @@
+// social.controller.ts
 import { Controller, Get, Patch, Param, Body } from '@nestjs/common';
 import { SocialService } from './social.service';
 import { ShareTaskDto } from './dto/share-task.dto';

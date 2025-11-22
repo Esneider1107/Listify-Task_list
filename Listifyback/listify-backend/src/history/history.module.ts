@@ -1,3 +1,4 @@
+// src/history/history.module.ts
 import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { History } from './entities/history.entity';

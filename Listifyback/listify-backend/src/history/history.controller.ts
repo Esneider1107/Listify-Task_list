@@ -1,3 +1,4 @@
+// src/history/history.controller.ts
 import { Controller, Get, Post, Body } from '@nestjs/common';
 import { HistoryService } from './history.service';
 import { CreateHistoryDto } from './dto/create-history.dto';

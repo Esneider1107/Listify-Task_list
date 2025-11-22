@@ -1,3 +1,4 @@
+// social.controller.spec.ts
 import { Test, TestingModule } from '@nestjs/testing';
 import { SocialController } from './social.controller';
 
